@@ -105,4 +105,4 @@ Documented deliberately — knowing where a model is weak is part of the product
 
 ---
 
-*© 2026. Documentation published as a project overview; all rights reserved. The tool's implementation and all product test data remain private. No affiliation with, or endorsement by, any product-testing organization is implied.*
+*© 2026 AfiVill. This documentation is released under the [MIT License](LICENSE). The tool's implementation and all product test data remain private and are not part of this repository. No affiliation with, or endorsement by, any product-testing organization is implied.*
