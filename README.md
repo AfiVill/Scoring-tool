@@ -1,6 +1,6 @@
 # Scoring Tool
 
-**Predict third-party product ratings before they're published — regression benchmarking with honest validation and calibrated uncertainty.**
+**Predict third-party product ratings before they're published — regression benchmarking with validation and calibrated uncertainty.**
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1-black?logo=flask)
