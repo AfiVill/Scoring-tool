@@ -9,7 +9,7 @@
 
 A lightweight Flask web application that trains machine-learning regression models on historical product test results and predicts the **overall rating (0–100)** a product would receive from an independent testing organization — before that rating exists. Every prediction ships with a **calibrated 90% prediction interval** (split-conformal), so users see not just a number but how much to trust it.
 
-Built for product teams who want to estimate how a new or hypothetical product will be rated, using nothing more than a CSV of historical test data.
+Built for product teams who want to estimate how a new product will be rated, using nothing more than a CSV of historical test data.
 
 > **About this repository** — this is the public overview of a privately developed tool: it documents the product, architecture, and statistical methodology. The implementation source is not published.
 
